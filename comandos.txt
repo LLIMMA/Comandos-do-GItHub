@@ -6,6 +6,8 @@ cd documentos(onde se encontra o projeto) / physical(nome da pasta de onde o jog
 
 git add . (preparar os arquivos para o commit)
 
+git pull https://github.com/LLIMMA/-physical2d-novotec.git (entra no repositorio do arquivo)
+
 git status (verificar se n occoreu nenhum erro)
 
 git clone (clona um arquivo para utilizar em outro computador)
